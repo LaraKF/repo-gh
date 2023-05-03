@@ -1,1 +1,1 @@
-var fruits = "Apple"
+var fruits = "Banana"
